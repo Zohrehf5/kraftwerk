@@ -1,8 +1,4 @@
-<<<<<<< HEAD
-=======
-
->>>>>>> 212e983 (Readme file)
-# Will a Customer Accept the Coupon?
+# Will a Customer Accept the Coupon?  
 
 ## Dataset investigation and Cleanup:
 1- Make a copy of dataset to apply the data cleanup  
@@ -12,7 +8,7 @@
 **Observations:**
 What proportion of the total observations chose to accept the coupon? Proportion of accepted coupons: 56.84%
 Please see the barplot under ./images/coupon_acc.png. The most acceptance coupans were for "Coffee House".  
-![alt text](assignment_5_1_starter/images/coupon_acc.png)  
+![alt text](assignment_5_1_starter/images/coupon_acc.jpeg)  
 In the warmer wether the frequency of accpeting coupons is higher, Please see the histogram under ./images/temp_dist.png'.  
 <img src="assignment_5_1_starter/images/temp_dist.png"  width="100" height="100">  
 
