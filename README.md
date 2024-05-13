@@ -10,7 +10,7 @@ What proportion of the total observations chose to accept the coupon? Proportion
 Please see the barplot under ./images/coupon_acc.png. The most acceptance coupans were for "Coffee House".  
 ![alt text](assignment_5_1_starter/images/coupon_acc.jpeg)  
 In the warmer wether the frequency of accpeting coupons is higher, Please see the histogram under ./images/temp_dist.png'.  
-<img src="assignment_5_1_starter/images/temp_dist.png"  width="100" height="100">  
+<img src="assignment_5_1_starter/images/temp_dist.png"  width="200" height="200">  
 
 
 ## Investigationg the Bar coupons
