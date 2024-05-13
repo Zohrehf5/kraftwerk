@@ -1,23 +1,20 @@
-<<<<<<< HEAD
-=======
 
->>>>>>> 212e983 (Readme file)
-# Will a Customer Accept the Coupon?
+# Will a Customer Accept the Coupon?  
 
-## Dataset investigation and Cleanup:
+## Dataset investigation and Cleanup:  
 1- Make a copy of dataset to apply the data cleanup  
 2- High Proportion of Missing Data for the car column:only 108 non-null entries out of 12,684. It's better to drop this column  
 3- Moderate or Low Proportion of Missing Data for Bar, CoffeeHouse, CarryAway, RestaurantLessThan20, Restaurant20to50: I replaced the missing values with a new category like 'Unknown'  
 
-**Observations:**
+**Observations:**  
 What proportion of the total observations chose to accept the coupon? Proportion of accepted coupons: 56.84%
 Please see the barplot under ./images/coupon_acc.png. The most acceptance coupans were for "Coffee House".  
-![alt text](assignment_5_1_starter/images/coupon_acc.png)  
+![alt text](assignment_5_1_starter/images/coupon_acc.jpeg)  
 In the warmer wether the frequency of accpeting coupons is higher, Please see the histogram under ./images/temp_dist.png'.  
-<img src="assignment_5_1_starter/images/temp_dist.png"  width="100" height="100">  
+<img src="assignment_5_1_starter/images/temp_dist.png"  width="200" height="200">  
 
 
-## Investigationg the Bar coupons
+## Investigationg the Bar coupons  
 ### Q2. What proportion of bar coupons were accepted?  
 Proportion of accepted bar coupons: 41.00%
 
