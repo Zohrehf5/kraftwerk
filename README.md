@@ -1,3 +1,7 @@
+<<<<<<< HEAD
+=======
+
+>>>>>>> 212e983 (Readme file)
 # Will a Customer Accept the Coupon?
 
 ## Dataset investigation and Cleanup:
