@@ -58,13 +58,13 @@ Based on the provided acceptance rates for various groups related to bar visits,
 ## Overall Conclusion:  
 The data suggests that lifestyle, economic status, and social habits (such as frequency of bar visits, age, presence of children, and marital status) significantly influence the likelihood of accepting bar coupons. Marketing strategies aimed at promoting bar-related activities could be more effective if they target individuals based on these factors, especially focusing on more frequent bar-goers and socially active demographics.  
 
-##Independent Investigation##
+## Independent Investigation  
 Using the bar coupon example as motivation, you are to explore one of the other coupon groups and try to determine the characteristics of passengers who accept the coupons.
 I chose "restaurant coupons" for investigation. I will analyze acceptance rates based on various attributes such as age, income level, marital status,  presence of children and occupation.
 
 I created a new Dataframe, named "restaurant_coupon" from original data and filled the missing values with the mode (most frequent value)
-
-**What proportion of restaurant coupons  were accepted by each category? **
+  
+**What proportion of restaurant coupons  were accepted by each category?** 
 
 
 ![alt text](images/fig_pie_restaurant_passanger.png)
