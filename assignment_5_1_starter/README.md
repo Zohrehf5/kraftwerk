@@ -58,3 +58,37 @@ Based on the provided acceptance rates for various groups related to bar visits,
 ## Overall Conclusion:  
 The data suggests that lifestyle, economic status, and social habits (such as frequency of bar visits, age, presence of children, and marital status) significantly influence the likelihood of accepting bar coupons. Marketing strategies aimed at promoting bar-related activities could be more effective if they target individuals based on these factors, especially focusing on more frequent bar-goers and socially active demographics.  
 
+##Independent Investigation##
+Using the bar coupon example as motivation, you are to explore one of the other coupon groups and try to determine the characteristics of passengers who accept the coupons.
+I chose "restaurant coupons" for investigation. I will analyze acceptance rates based on various attributes such as age, income level, marital status,  presence of children and occupation.
+
+I created a new Dataframe, named "restaurant_coupon" from original data and filled the missing values with the mode (most frequent value)
+
+**What proportion of restaurant coupons  were accepted by each category? **
+
+
+![alt text](images/fig_pie_restaurant_passanger.png)
+
+![alt text](images/fig_pie_restaurant_age.png)
+
+![alt text](images/fig_pie_restaurant_marital.png)
+
+![alt text](images/fig_pie_restaurant_income.png)
+
+![alt text](images/fig_pie_restaurant_occupation.png)
+
+
+**Observations**: 
+The acceptance rates of coupons show variation based on multiple factors such as age, income, marital status, occupation, and dining frequency. Notably, drivers who often dine alone accept coupons at a higher rate (51%). Among age groups, drivers between 21 and 35 years old show the highest acceptance rates for dining out coupons, totaling 58% across the age brackets of 21, 26, and 31. In terms of marital status, single and married drivers predominantly accept the coupons. Income also plays a significant role in coupon acceptance; drivers earning between $25,000 and $50,000 account for the highest proportion of coupon acceptance (31%), followed by those earning less than $25,000 (21.5%), $50,000 to $75,000 (20.6%), over $100,000 (14.2%), and $75,000 to $100,000 (12.7%). Occupation-wise, unemployed drivers have the highest coupon acceptance rate (13.6%), closely followed by students (12.3%).
+
+# Conclusion: #
+
+The demographic factors like age, income, marital status, and occupation significantly influence the acceptance of restaurant coupons among drivers. Younger drivers, particularly those aged between 21 and 35, are more likely to accept coupons, indicating a potential target demographic for marketing campaigns focused on dining out promotions.
+Both single and married drivers are more likely to use coupons, suggesting that relationship status could be a useful factor in segmenting marketing strategies.There is a clear trend where drivers with lower to middle incomes (less than $75,000 annually) are more inclined to accept coupons, with the highest acceptance among those earning between $25,000 and $50,000. This suggests that coupon promotions might be more appealing to drivers looking for budget-friendly dining options.
+Unemployed drivers and students show higher rates of coupon acceptance, potentially reflecting greater price sensitivity and openness to discounts among these groups.
+
+Marketing efforts might be particularly effective if they focus on younger drivers, those with lower to middle incomes, and specific groups like students and unemployed individuals, who are more likely to respond to coupon-based promotions.
+
+**Will the Customer Accept the Coupon?** Yes, based on the sample dataset the majority of drivers accepted the coupon.
+
+
