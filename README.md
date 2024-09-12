@@ -53,6 +53,6 @@ To compare the performance of classifiers, we can follow these steps:
 3.	Practical Application_III_Comparing Classifiers.ipynb: Contains the Jupyter Notebook with detailed code including comments and analysis.
    https://github.com/Zohrehf5/kraftwerk/blob/comparing_Classifiers/comparing_classifiers/prompt_III.ipynb
 4.	README.md: Summary report of findings and next steps
-   
+   https://github.com/Zohrehf5/kraftwerk/blob/comparing_Classifiers/README.md
 5.	Practical Application 3.docx : Detail report of  Classifiers Comparison between different models and key highlights
-
+    https://github.com/Zohrehf5/kraftwerk/blob/comparing_Classifiers/comparing_classifiers/Practical%20Application%203.docx
